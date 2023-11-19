@@ -1,4 +1,4 @@
-# Project Name
+# Advanced Regression Assignment
 > Buliding Linear Regression models with regularisation using Ridge and Lasso regression  for prediction of House Prices 
 
 
